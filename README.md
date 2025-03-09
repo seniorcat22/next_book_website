@@ -103,14 +103,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out through my social media:
-
-✨ [Twitter](https://www.youtube.com/channel/UCJoQhaR1_Gx8dpeZdrCCXsg)  
-✨ [YouTube](https://www.youtube.com/channel/UCJoQhaR1_Gx8dpeZdrCCXsg)  
-✨ [LinkedIn](https://www.linkedin.com/in/vivek-neupane-b99259194/)  
-
 ## Video Tutorial
 
 You can watch a tutorial on how to create this app [here](https://www.youtube.com/watch?v=kZVt_OmD-tI).
